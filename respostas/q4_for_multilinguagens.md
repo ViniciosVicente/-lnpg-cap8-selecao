@@ -5,3 +5,5 @@ Em JavaScript, ficou praticamente igual ao Java. Só muda um pouco a sintaxe, en
 Em Lua, tive que adaptar um pouco porque o for é diferente. Usei uma abordagem controlando manualmente as variáveis, o que funcionou, mas não achei tão direto quanto JavaScript.
 
 As outras duas linguagens que escolhi foram Go e Ruby, que são as que eu menos domino. Em Go, o for é bem flexível, então consegui fazer bem parecido com Java. Já em Ruby, precisei adaptar mais, porque o for não funciona da mesma forma, então tive que controlar a variável j manualmente.
+
+Eu iria usar C, mas ainda não me sinto tão confiante.
